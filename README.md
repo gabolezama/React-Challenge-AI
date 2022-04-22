@@ -1,12 +1,14 @@
-#Desarrollador
+## Desarrollador ##
 *  Nombre: Freddy Lezama
 *  Funciones: React / React Native Developer
 *  Direccion: Capital Federal
 *  Conocimientos: React.js, React Native, CSS, SASS, HTML, Boostrap, Javascript, SQL, Postgre, C++
 
-#ReactJS Challenge
+## ReactJS Challenge ##
+
 Desarrollo para visualizar la información de conversaciones captada por bots para los clientes de Inceptia AI
 Resultado
+
 ![image](https://user-images.githubusercontent.com/39780800/164718961-e9d4111c-f098-46c7-84c0-c2971a9c0a50.png)
 
 ## General Info ##
