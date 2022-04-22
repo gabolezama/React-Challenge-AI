@@ -1,0 +1,3 @@
+node_modules
+frontend/src/serviceWorker.js
+frontend/package-lock.json
