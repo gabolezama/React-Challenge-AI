@@ -17,6 +17,8 @@ This project uses the following technologies:
   *  Docker & docker-compose
   *  React.js
   *  Boostrap
+## Notas para Pruebas de Este Desarrollo ##
+Se sugiere que luego de clonar el repositorio de manera local, se navegue hasta la dirección '\ChallengeReactJSDev\frontend' y en esta carpeta se ejecute el comando 'npm start' ya que acá es donde está configurada la ejecución de los scripts de node
 
 ## Docker & make instructions ##
 To deploy locally or remotely you'll need [docker-compose](https://docs.docker.com/compose/install/) and [docker-engine](https://docs.docker.com/engine/installation/linux/ubuntulinux/)
